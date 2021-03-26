@@ -2,8 +2,6 @@
 title: "Bank Marketing Project"
 date: 2021-03-01
 tags: [Random Forest Classifier, Logistic Regression, Ensembled model, Cross Validation, Hyperparameter Tuning, Imbalance Data]
-header:
-  image: "/images/perceptron/percept.jpg"
 excerpt: "Random Forest Classifier, Logistic Regression, Ensembled model, Cross Validation, Hyperparameter Tuning, Imbalance Data"
 mathjax: "true"
 ---
