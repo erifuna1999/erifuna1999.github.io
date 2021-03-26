@@ -6,7 +6,7 @@ excerpt: "Time Series, SARIMAX, Prophet, VARS, Multivariate Model, Univariate Mo
 mathjax: "true"
 ---
 
-# Assembled Notebook for Group 4
+# Predict future house price with Zillow daset
 
 
 ```python
@@ -64,7 +64,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_5_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_5_0.png)
     
 
 
@@ -80,7 +80,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_7_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_7_0.png)
     
 
 
@@ -96,7 +96,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_9_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_9_0.png)
     
 
 
@@ -138,7 +138,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_11_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_11_0.png)
     
 
 
@@ -190,7 +190,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_16_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_16_0.png)
     
 
 
@@ -222,7 +222,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_20_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_20_0.png)
     
 
 
@@ -235,7 +235,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_21_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_21_0.png)
     
 
 
@@ -375,7 +375,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_32_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_32_0.png)
     
 
 
@@ -632,7 +632,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_44_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_44_0.png)
     
 
 
@@ -869,7 +869,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_54_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_54_0.png)
     
 
 
@@ -1126,7 +1126,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_64_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_64_0.png)
     
 
 
@@ -1192,7 +1192,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_70_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_70_0.png)
     
 
 
@@ -1426,7 +1426,7 @@ plt.plot();
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_85_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_85_0.png)
     
 
 
@@ -1547,7 +1547,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_94_1.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_94_1.png)
     
 
 
@@ -1559,7 +1559,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_95_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_95_0.png)
     
 
 
@@ -1575,7 +1575,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_96_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_96_0.png)
     
 
 
@@ -1620,7 +1620,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_100_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_100_0.png)
     
 
 
@@ -1632,7 +1632,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_101_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_101_0.png)
     
 
 
@@ -1649,7 +1649,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_102_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_102_0.png)
     
 
 
@@ -1674,7 +1674,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_103_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_103_0.png)
     
 
 
@@ -1718,7 +1718,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_107_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_107_0.png)
     
 
 
@@ -1735,7 +1735,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_108_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_108_0.png)
     
 
 
@@ -1781,7 +1781,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_112_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_112_0.png)
     
 
 
@@ -1797,7 +1797,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_113_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_113_0.png)
     
 
 
@@ -2192,7 +2192,7 @@ plt.plot(inv_yhat)
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_125_1.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_125_1.png)
     
 
 
@@ -2359,7 +2359,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_133_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_133_0.png)
     
 
 
@@ -2375,7 +2375,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_134_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_134_0.png)
     
 
 
@@ -2400,7 +2400,7 @@ plt.show()
 
 
     
-![png](Assembled_Notebook_files/Assembled_Notebook_135_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/Assembled_Notebook_files/Assembled_Notebook_135_0.png)
     
 
 
