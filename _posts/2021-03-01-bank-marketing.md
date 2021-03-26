@@ -308,7 +308,7 @@ plt.show()
 
 
     
-![png](final_eriko_files/final_eriko_11_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/final_eriko_files/final_eriko_11_0.png)
     
 
 
@@ -700,7 +700,7 @@ plt.show()
 
 
     
-![png](final_eriko_files/final_eriko_37_0.png)
+![png]({{ site.url }}{{ site.baseurl }}/images/final_eriko_files/final_eriko_37_0.png)
     
 
 
